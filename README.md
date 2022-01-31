@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy Inc
 
 ## Purpose
 A website that offers (not real) fitness training services.
@@ -12,3 +12,5 @@ https://josephrule.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Joe Rule
+
+### ©️2019 Run Buddy, Inc
